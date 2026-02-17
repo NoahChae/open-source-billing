@@ -33,7 +33,7 @@
 #back-to-top {
   position: fixed;
   bottom: 30px;
-  right: 30px;
+  left: 30px;
   display: none;
   padding: 10px 14px;
   font-size: 18px;
